@@ -11,7 +11,16 @@
     "deno"
   ],
   "dependencies": {
-    "crypto": "*"
+    "crypto": "*",
+    "async": "~0.9.x",
+    "fs-extra": "~0.12.0",
+    "gm": "^1.17.0",
+    "lodash": "^2.4.1",
+    "moment": "~2.8.3",
+    "mysql": "~2.5.2",
+    "node-uuid": "~1.4.1",
+    "request": "^2.49.0",
+    "xml2js": "^0.4.4"
   },
   "author": "niefengjun <niefengjun@niefengjun.cn>",
   "license": "1.0",

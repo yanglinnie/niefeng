@@ -1,2 +1,14 @@
-exports.StringUtils=require('./lib/string'); //字符串处理
-
+exports.StringUtils = require("./lib/string");
+exports.DatetimeUtils = require("./lib/datetime");
+exports.FileUtils = require("./lib/file");
+exports.ReturnValue = require("./lib/return-value");
+exports.MysqlHelper = require("./lib/mysql-helper");
+exports.ImageUtils = require("./lib/image");
+exports.BaiduMapUtils = require("./lib/baidumap");
+exports.CommonUtils = require("./lib/common");
+exports.Lodash = require("lodash");
+exports.Async = require('async');
+exports.Moment = require('moment');
+exports.Uuid = require('node-uuid');
+exports.Request = require('request');
+exports.Xml2js = require('xml2js');
