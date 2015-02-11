@@ -1,6 +1,6 @@
 {
   "name": "niefeng",
-  "version": "1.0.9",
+  "version": "1.0.13",
   "description": "niefengjun",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,8 @@
     "xml2js": "^0.4.4",
     "wechat": "*",
     "wechat-api": "*",
-    "wechat-oauth": "*"
+    "wechat-oauth": "*",
+    "mongoskin": "*"
   },
   "author": "niefengjun <niefengjun@niefengjun.cn>",
   "license": "1.2",
