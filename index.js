@@ -12,6 +12,6 @@ exports.Moment = require('moment');
 exports.Uuid = require('node-uuid');
 exports.Request = require('request');
 exports.Xml2js = require('xml2js');
-exports.webchat=require('wechat') ;
+exports.wechat=require('wechat') ;
 exports.wechatapi=require('wechat-api') ;
 exports.wechatoauth=require('wechatoauth') ;

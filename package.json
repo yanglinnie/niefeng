@@ -1,6 +1,6 @@
 {
   "name": "niefeng",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "description": "niefengjun",
   "main": "index.js",
   "scripts": {
@@ -21,13 +21,12 @@
     "node-uuid": "~1.4.1",
     "request": "^2.49.0",
     "xml2js": "^0.4.4",
-    "wechat":"*",
-    "wechat-api":"*",
-    "wechat-oauth":"*"
-
+    "wechat": "*",
+    "wechat-api": "*",
+    "wechat-oauth": "*"
   },
   "author": "niefengjun <niefengjun@niefengjun.cn>",
-  "license": "1.0",
+  "license": "1.2",
   "devDependencies": {},
   "repository": {
     "type": "git",
