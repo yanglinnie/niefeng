@@ -21,7 +21,10 @@
     "node-uuid": "~1.4.1",
     "request": "^2.49.0",
     "xml2js": "^0.4.4",
-    "wechat":"*"
+    "wechat":"*",
+    "wechat-api":"*",
+    "wechat-oauth":"*"
+
   },
   "author": "niefengjun <niefengjun@niefengjun.cn>",
   "license": "1.0",
